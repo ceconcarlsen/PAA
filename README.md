@@ -1,2 +1,4 @@
 # PAA
-Projeto e Análise de Algoritmos
+## Trabalho prático 
+### Análise experimental de algoritmos de ordenação [Python]
+
